@@ -1,0 +1,228 @@
+[25-Feb-2026 13:49:00 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:49:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:49:16 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:49:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:50:19 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:50:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:50:58 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:50:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:00 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:23 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:32 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:47 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:57 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:51:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:52:17 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:52:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:52:22 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:52:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:01 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:05 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:21 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:44 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:53:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:55:49 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:55:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:57:30 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:57:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:58:56 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:58:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:59:13 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:59:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:59:22 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 13:59:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:00:45 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:00:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:10:10 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:10:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:13:14 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 14:13:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 15:18:58 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 15:18:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 15:19:47 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[25-Feb-2026 15:19:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 00:44:38 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 00:44:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:06:15 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:06:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:39:57 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:39:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:47:48 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:47:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:57:47 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 01:57:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 04:11:14 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 04:11:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:06:36 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:06:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:07:28 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:07:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:07:42 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:07:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:08:12 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:08:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:19:40 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:19:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:20:56 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:20:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:21:16 UTC] PHP Warning:  Undefined variable $stmt in /home/penginga/public_html/login.php on line 20
+[26-Feb-2026 06:21:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in /home/penginga/public_html/login.php:20
+Stack trace:
+#0 /home/penginga/public_html/login.php(20): mysqli_stmt_close()
+#1 {main}
+  thrown in /home/penginga/public_html/login.php on line 20
